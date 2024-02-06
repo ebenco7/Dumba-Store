@@ -118,14 +118,14 @@ body {
 
 /* Style the form for better visibility */
 #form-container form {
-  background-color: white; /* Set the background color for the form */
+  background-color: green; /* Set the background color for the form */
   padding: 20px;
   box-sizing: border-box;
 }
 
 /* Hide the "Contact Us" label when form container is hovered */
 #form-container:hover #contact-us-label {
-  display: none;
+  display:;
 }
 
 
