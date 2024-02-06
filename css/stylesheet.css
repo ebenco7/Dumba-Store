@@ -268,7 +268,7 @@ body {
   display: inline-block;
   position: fixed;
   right: 0;
-  bottom: 50%;
+  bottom: 20%;
 }
 
 #social-media-container:hover {
