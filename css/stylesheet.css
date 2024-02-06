@@ -125,7 +125,7 @@ body {
 
 /* Hide the "Contact Us" label when form container is hovered */
 #form-container:hover #contact-us-label {
-  display:;
+  display:none;
 }
 
 
